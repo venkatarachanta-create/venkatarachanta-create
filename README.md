@@ -113,9 +113,10 @@ Comfortable working with UK and European time-zone overlap.
 
 ## 📫 Connect With Me
 
-* LinkedIn: Venkata Rajanna Achanta
-* Location: Hyderabad, India
-* Email: [venkatarachanta@gmail.com](mailto:venkatarachanta@gmail.com)
+- LinkedIn: [Venkata Rajanna Achanta](https://www.linkedin.com/in/venkata-rajanna-achanta-88962236/)
+- GitHub: [venkatarachanta-create](https://github.com/venkatarachanta-create)
+- Location: Hyderabad, India
+- Email: [venkatarachanta@gmail.com](mailto:venkatarachanta@gmail.com)
 
 ---
 
